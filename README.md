@@ -11,7 +11,7 @@
   <li>Java,C++</li>
   <li>Springboot</li>
   <li>HTML/CSS</li>
-  <li>React</li>
+  <li>Angular</li>
   <li>SQL</li>
   <li>PL/SQL</li>
 </ul>
