@@ -8,7 +8,7 @@
 
 <h3>Skills</h3>
 <ul>
-  <li>Java,C++</li>
+  <li>Java,C++,GOLANG</li>
   <li>Springboot</li>
   <li>HTML/CSS</li>
   <li>Angular</li>
