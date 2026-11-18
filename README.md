@@ -10,10 +10,13 @@
 <ul>
   <li>Java,C++,GOLANG</li>
   <li>Springboot</li>
+  <li>AWS Deployement</li>
+  <li>React</li>
   <li>HTML/CSS</li>
   <li>Angular</li>
   <li>SQL</li>
   <li>PL/SQL</li>
+  
 </ul>
 
 <h3>Connect with Me</h3>
